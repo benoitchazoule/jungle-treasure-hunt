@@ -29,6 +29,7 @@ export default function History(props) {
             En vous promenant dans la jungle d’Alunira, vous découvrirez trois indices.
             Ces indices vous permettront de deviner dans quel village d’animaux se trouve le livre.
         </p>
+        <div style={{clear: 'right'}}></div>
     </div>
   );
 }

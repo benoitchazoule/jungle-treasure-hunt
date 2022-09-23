@@ -108,6 +108,7 @@ const Steps = () => {
                   <p>
                     Le Conseil d’Alunira m’a autorisé à vous offrir une partie du trésor. Votre récompense vous attend dans le coffre de {HindingPlaces.treasurePlace}
                   </p>
+                  <div style={{clear: 'right'}}></div>
                 </Box>
               </div>
             ) : challengeStepIndexes.includes(activeStep) ? (
