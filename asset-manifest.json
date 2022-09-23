@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/jungle-treasure-hunt/static/css/main.45254441.css",
-    "main.js": "/jungle-treasure-hunt/static/js/main.5aa6b59d.js",
+    "main.css": "/jungle-treasure-hunt/static/css/main.4e8922c6.css",
+    "main.js": "/jungle-treasure-hunt/static/js/main.59f69f0b.js",
     "static/js/787.dc03ae43.chunk.js": "/jungle-treasure-hunt/static/js/787.dc03ae43.chunk.js",
-    "static/media/enigma-1-final.png": "/jungle-treasure-hunt/static/media/enigma-1-final.4a89605015c62b539eb0.png",
+    "static/media/enigma-5-final.png": "/jungle-treasure-hunt/static/media/enigma-5-final.7f16b282304246ed7ad8.png",
+    "static/media/enigma-6-final.png": "/jungle-treasure-hunt/static/media/enigma-6-final.1cdc32e3b5ed9f73a9c4.png",
+    "static/media/enigma-1-final.png": "/jungle-treasure-hunt/static/media/enigma-1-final.9e6044075c75055da599.png",
+    "static/media/enigma-3-final.png": "/jungle-treasure-hunt/static/media/enigma-3-final.a93bb2dc9334c94aa945.png",
+    "static/media/enigma-2-final.png": "/jungle-treasure-hunt/static/media/enigma-2-final.8e378f59578f544e2709.png",
+    "static/media/enigma-7-final.png": "/jungle-treasure-hunt/static/media/enigma-7-final.a807d06d802576d2329a.png",
+    "static/media/enigma-4-final.png": "/jungle-treasure-hunt/static/media/enigma-4-final.9a6a0e418d94fe385c48.png",
     "static/media/Jungle Kid.otf": "/jungle-treasure-hunt/static/media/Jungle Kid.a72634cf18bbd02ac882.otf",
     "index.html": "/jungle-treasure-hunt/index.html",
-    "main.45254441.css.map": "/jungle-treasure-hunt/static/css/main.45254441.css.map",
-    "main.5aa6b59d.js.map": "/jungle-treasure-hunt/static/js/main.5aa6b59d.js.map",
+    "main.4e8922c6.css.map": "/jungle-treasure-hunt/static/css/main.4e8922c6.css.map",
+    "main.59f69f0b.js.map": "/jungle-treasure-hunt/static/js/main.59f69f0b.js.map",
     "787.dc03ae43.chunk.js.map": "/jungle-treasure-hunt/static/js/787.dc03ae43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45254441.css",
-    "static/js/main.5aa6b59d.js"
+    "static/css/main.4e8922c6.css",
+    "static/js/main.59f69f0b.js"
   ]
 }
