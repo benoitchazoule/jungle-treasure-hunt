@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jungle-treasure-hunt/static/css/main.4e8922c6.css",
-    "main.js": "/jungle-treasure-hunt/static/js/main.a042d51d.js",
+    "main.js": "/jungle-treasure-hunt/static/js/main.ad399f25.js",
     "static/js/787.dc03ae43.chunk.js": "/jungle-treasure-hunt/static/js/787.dc03ae43.chunk.js",
     "static/media/enigma-5-final.png": "/jungle-treasure-hunt/static/media/enigma-5-final.7f16b282304246ed7ad8.png",
     "static/media/enigma-6-final.png": "/jungle-treasure-hunt/static/media/enigma-6-final.1cdc32e3b5ed9f73a9c4.png",
@@ -13,11 +13,11 @@
     "static/media/Jungle Kid.otf": "/jungle-treasure-hunt/static/media/Jungle Kid.a72634cf18bbd02ac882.otf",
     "index.html": "/jungle-treasure-hunt/index.html",
     "main.4e8922c6.css.map": "/jungle-treasure-hunt/static/css/main.4e8922c6.css.map",
-    "main.a042d51d.js.map": "/jungle-treasure-hunt/static/js/main.a042d51d.js.map",
+    "main.ad399f25.js.map": "/jungle-treasure-hunt/static/js/main.ad399f25.js.map",
     "787.dc03ae43.chunk.js.map": "/jungle-treasure-hunt/static/js/787.dc03ae43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e8922c6.css",
-    "static/js/main.a042d51d.js"
+    "static/js/main.ad399f25.js"
   ]
 }
